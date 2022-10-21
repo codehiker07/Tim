@@ -1,0 +1,1 @@
+What if we need a good list of characters present in a string?, Hence though we have not good mentioned the separator parameter, method gives us a good list having the individual characters

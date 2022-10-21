@@ -1,0 +1,1 @@
+we are going to see how we can combine both the above methods to convert a string to a list of character lists, Then we apply the list() method to all the elements of the list, Now we are going to convert a string consisting of only integers separated by some space, comma or etc
